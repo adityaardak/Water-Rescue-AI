@@ -2,9 +2,10 @@ streamlit
 ultralytics
 transformers
 torch
-opencv-python-headless
-Pillow
+streamlit
 numpy
+opencv-python-headless==4.12.0.88
+Pillow
 pandas
 plotly
 timm

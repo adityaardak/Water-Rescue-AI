@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'WaterRescueAI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_988A36DA82354FBFAEB6FEF73C669151 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D870FA7846C54FEE915729C389E5D4D5 }}
